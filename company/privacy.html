@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>try{if(localStorage.getItem('sc-theme')==='light')document.documentElement.setAttribute('data-theme','light');}catch(e){}</script>
+<link rel="canonical" href="https://strengthcloud.in/company/privacy">
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Privacy Policy – StrengthCloud</title>
+<meta name="description" content="Read StrengthCloud's Privacy Policy to learn how we collect, use, and protect your data across our hosting services.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="StrengthCloud">
+<meta property="og:title" content="Privacy Policy – StrengthCloud">
+<meta property="og:description" content="Read StrengthCloud's Privacy Policy to learn how we collect, use, and protect your data across our hosting services.">
+<meta property="og:url" content="https://strengthcloud.in/company/privacy">
+<meta property="og:image" content="https://strengthcloud.in/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Policy – StrengthCloud">
+<meta name="twitter:description" content="Read StrengthCloud's Privacy Policy to learn how we collect, use, and protect your data across our hosting services.">
+<meta name="twitter:image" content="https://strengthcloud.in/og-image.png">
+<meta name="theme-color" content="#3b82f6">
+<link rel="icon" href="../favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../logo.png">
+<link href="../css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared.css?v=4">
+<style>
+section{padding:90px 40px;}
+.plan-hero{min-height:300px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:calc(var(--nav-h)+60px) 40px 60px;text-align:center;position:relative;overflow:hidden;}
+.plan-hero-bg{position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse 60% 60% at 50% 40%,rgba(59,130,246,.18),transparent 70%);}
+.plan-hero-grid{position:absolute;inset:0;z-index:0;background-image:linear-gradient(rgba(59,130,246,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(59,130,246,.03) 1px,transparent 1px);background-size:60px 60px;mask-image:radial-gradient(ellipse 80% 80% at 50% 50%,black,transparent);}
+.plan-hero>*{position:relative;z-index:1;}
+.sec-badge{display:inline-flex;align-items:center;gap:7px;background:rgba(59,130,246,.1);border:1px solid rgba(59,130,246,.3);color:#93c5fd;font-size:12px;font-weight:600;padding:5px 14px;border-radius:100px;margin-bottom:20px;letter-spacing:.4px;}
+.sec-title{font-size:clamp(30px,4vw,56px);font-weight:800;color:var(--white);letter-spacing:-1.5px;line-height:1.1;margin-bottom:16px;}
+.sec-title .ac{color:var(--accent);}
+.sec-sub{color:var(--muted);font-size:16px;max-width:560px;line-height:1.7;margin:0 auto;}
+
+/* ── Two-column layout: sticky TOC sidebar + policy content ── */
+.pp-layout{max-width:1160px;margin:0 auto;display:grid;grid-template-columns:270px 1fr;gap:34px;align-items:start;}
+.pp-sidebar{position:sticky;top:calc(var(--nav-h) + 24px);display:flex;flex-direction:column;gap:16px;}
+.pp-toc{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:22px;}
+.pp-toc-title{font-size:12px;font-weight:800;letter-spacing:1px;color:var(--muted);margin-bottom:14px;}
+.pp-toc a{display:flex;align-items:center;gap:10px;padding:9px 8px;border-radius:9px;font-size:13.5px;font-weight:600;color:var(--muted);text-decoration:none;transition:background .18s ease,color .18s ease;}
+.pp-toc a:hover, .pp-toc a.active{background:rgba(59,130,246,.1);color:var(--white);}
+.pp-toc a svg{width:15px;height:15px;flex-shrink:0;color:var(--accent);}
+.pp-help{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:22px;text-align:center;}
+.pp-help h4{font-size:14.5px;font-weight:800;color:var(--white);margin-bottom:8px;}
+.pp-help p{font-size:12.5px;color:var(--muted);line-height:1.65;margin-bottom:16px;}
+.pp-help a{display:inline-flex;align-items:center;justify-content:center;gap:6px;width:100%;background:var(--accent);color:#fff;font-size:13px;font-weight:700;padding:11px 14px;border-radius:10px;text-decoration:none;transition:transform .18s cubic-bezier(.22,1,.36,1),opacity .18s ease;}
+.pp-help a:hover{transform:translateY(-2px);opacity:.92;}
+
+.pp-card{scroll-margin-top:calc(var(--nav-h) + 24px);background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:32px 34px;margin-bottom:22px;transition:border-color .25s ease,box-shadow .25s ease;}
+.pp-card:hover{border-color:rgba(59,130,246,.32);box-shadow:0 12px 32px rgba(0,0,0,.25);}
+.pp-card h3{font-size:19px;font-weight:800;color:var(--white);margin-bottom:14px;letter-spacing:-.3px;display:flex;align-items:center;gap:12px;}
+.pp-card h3 .ic{width:36px;height:36px;border-radius:10px;background:rgba(59,130,246,.14);color:var(--accent);display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.pp-card h3 .ic svg{width:17px;height:17px;}
+.pp-card-hr{height:1px;background:var(--card-border);margin-bottom:16px;}
+.pp-card p{font-size:14px;color:var(--muted);line-height:1.75;margin-bottom:10px;}
+.pp-card p:last-child{margin-bottom:0;}
+.pp-lead{font-size:13.5px;color:var(--muted);margin-bottom:16px;}
+
+/* Bullet-point info grid, like the reference screenshot */
+.pp-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+.pp-grid-item{display:flex;align-items:flex-start;gap:10px;background:rgba(255,255,255,.02);border:1px solid var(--card-border);border-radius:11px;padding:14px 16px;font-size:13px;color:var(--muted);line-height:1.6;}
+.pp-grid-item .dot{width:6px;height:6px;border-radius:50%;background:var(--accent);flex-shrink:0;margin-top:6px;}
+
+.pp-note{background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:14px;padding:24px;text-align:center;margin-top:6px;}
+.pp-note p{font-size:13px;color:var(--muted);line-height:1.7;}
+
+@media(max-width:900px){
+  .pp-layout{grid-template-columns:1fr;}
+  .pp-sidebar{position:static;}
+  .pp-grid{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+<div id="nav-placeholder"></div>
+
+<div class="plan-hero">
+  <div class="plan-hero-bg"></div>
+  <div class="plan-hero-grid"></div>
+  <div class="sec-badge reveal">How We Protect Your Data</div>
+  <h1 class="sec-title reveal d1">Privacy <span class="ac">Policy</span></h1>
+  <p class="sec-sub reveal d2">This page explains what information StrengthCloud collects, how we use it, and the choices you have.</p>
+</div>
+
+<section>
+  <div class="pp-layout">
+
+    <!-- ── Sidebar: Table of Contents + Need Help ── -->
+    <aside class="pp-sidebar">
+      <div class="pp-toc reveal">
+        <div class="pp-toc-title">TABLE OF CONTENTS</div>
+        <a href="#s1"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>1. Information Collection</a>
+        <a href="#s2"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>2. Use of Information</a>
+        <a href="#s3"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m6-3.13a4 4 0 10-4-4 4 4 0 004 4zm6 0a4 4 0 10-4-4"></path></svg>3. Data Sharing</a>
+        <a href="#s4"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>4. Communications</a>
+        <a href="#s5"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>5. Customer Data Controls</a>
+        <a href="#s6"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>6. Data Security</a>
+        <a href="#s7"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>7. Policy Updates</a>
+      </div>
+      <div class="pp-help reveal d1">
+        <h4>Need help?</h4>
+        <p>If you have questions about how we manage or protect your personal information, contact us.</p>
+        <a href="contact.html">Contact Privacy Team
+          <svg width="14" height="14" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path></svg>
+        </a>
+      </div>
+    </aside>
+
+    <!-- ── Policy content ── -->
+    <div class="pp-content">
+
+      <div class="pp-card reveal" id="s1">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg></span>1. Information Collection</h3>
+        <div class="pp-card-hr"></div>
+        <p>When you create an account or order a service, we collect the information needed to provision and support your hosting — this includes your name, email address, billing address, and payment information. We also log IP addresses and diagnostic telemetry for DDoS mitigation and infrastructure security.</p>
+        <div class="pp-grid" style="margin-top:14px;">
+          <div class="pp-grid-item"><span class="dot"></span>Account details: name, email, username</div>
+          <div class="pp-grid-item"><span class="dot"></span>Billing information for processing payments</div>
+          <div class="pp-grid-item"><span class="dot"></span>Support messages and ticket history</div>
+          <div class="pp-grid-item"><span class="dot"></span>IP address, browser type, and login activity</div>
+        </div>
+      </div>
+
+      <div class="pp-card reveal d1" id="s2">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg></span>2. Use of Information</h3>
+        <div class="pp-card-hr"></div>
+        <p class="pp-lead">The information we collect is used exclusively for the following purposes:</p>
+        <div class="pp-grid">
+          <div class="pp-grid-item"><span class="dot"></span>To provision, manage, and monitor your servers and hosting environments.</div>
+          <div class="pp-grid-item"><span class="dot"></span>To process payments and prevent fraudulent transactions.</div>
+          <div class="pp-grid-item"><span class="dot"></span>To send critical infrastructure updates and support responses.</div>
+          <div class="pp-grid-item"><span class="dot"></span>To detect abuse and enforce our Terms and Conditions.</div>
+        </div>
+      </div>
+
+      <div class="pp-card reveal d2" id="s3">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a4 4 0 00-3-3.87M9 20H4v-2a4 4 0 013-3.87m6-3.13a4 4 0 10-4-4 4 4 0 004 4zm6 0a4 4 0 10-4-4"></path></svg></span>3. Data Sharing and Third Parties</h3>
+        <div class="pp-card-hr"></div>
+        <p>StrengthCloud will never sell, lease, or rent your personal data. We only share data with trusted infrastructure partners (such as payment gateways) specifically required to operate the service. We do not share data for marketing purposes.</p>
+      </div>
+
+      <div class="pp-card reveal" id="s4">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg></span>4. Communications</h3>
+        <div class="pp-card-hr"></div>
+        <p>We may contact you via email, Discord, or WhatsApp regarding your services, such as renewal reminders, maintenance notices, or support replies. You can opt out of non-essential communications at any time by contacting support.</p>
+      </div>
+
+      <div class="pp-card reveal d1" id="s5">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg></span>5. Customer Data Controls</h3>
+        <div class="pp-card-hr"></div>
+        <p>You can request access to, correction of, or deletion of your personal data at any time by contacting our support team. We will respond and act on verified requests as soon as possible, in line with applicable data protection laws.</p>
+      </div>
+
+      <div class="pp-card reveal d2" id="s6">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></span>6. Data Security</h3>
+        <div class="pp-card-hr"></div>
+        <p>We use industry-standard safeguards, including DDoS-protected networks and strict access controls, to keep your account and server data secure. No method of transmission or storage is 100% secure, so we encourage you to use a strong, unique password.</p>
+      </div>
+
+      <div class="pp-card reveal" id="s7">
+        <h3><span class="ic"><svg fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg></span>7. Policy Updates</h3>
+        <div class="pp-card-hr"></div>
+        <p>We may update this Privacy Policy from time to time to reflect changes to our services or legal requirements. Continued use of StrengthCloud after an update means you accept the revised policy.</p>
+      </div>
+
+      <div class="pp-note reveal">
+        <p>Questions about this policy or how your data is handled? Reach out any time through our <a href="contact.html" style="color:var(--accent);text-decoration:none;font-weight:600;">Contact Us</a> page.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <div><div class="foot-logo">Strength<em>Cloud</em></div><p style="margin-top:6px">Premium hosting for gamers &amp; developers.</p></div>
+  <div class="foot-links"><a href="privacy.html">Privacy</a><a href="toc.html">Terms</a><a href="contact.html">Support</a><a href="../index.htm">Home</a></div>
+  <p>© 2025 StrengthCloud. All rights reserved.</p>
+</footer>
+
+<script src="../nav.js?v=3"></script>
+<script src="../shared.js"></script>
+<script>
+// Highlight the active TOC item as its matching section scrolls into view
+(function(){
+  const links = document.querySelectorAll('.pp-toc a');
+  const map = new Map();
+  links.forEach(a=>{ const id=a.getAttribute('href').slice(1); const el=document.getElementById(id); if(el) map.set(el, a); });
+  if(!map.size) return;
+  const io = new IntersectionObserver(entries=>{
+    entries.forEach(entry=>{
+      const a = map.get(entry.target);
+      if(!a) return;
+      if(entry.isIntersecting) links.forEach(l=>l.classList.remove('active')), a.classList.add('active');
+    });
+  }, { rootMargin: '-30% 0px -55% 0px', threshold: 0 });
+  map.forEach((a, el)=> io.observe(el));
+})();
+</script>
+<script type="module" src="../beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"d92ff1a15e054aa3bcf7466e1a88d4e0","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
