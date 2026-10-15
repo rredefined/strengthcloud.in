@@ -10,7 +10,7 @@ if(window.__scNavLoaded){
 } else {
 window.__scNavLoaded = true;
 
-const VENOM_LOGO_SVG = `<img src="/logo.png" alt="StrengthCloud" style="width:34px;height:34px;object-fit:contain">`;
+const VENOM_LOGO_SVG = `<img src="/logo.png" alt="BluexCloud" style="width:34px;height:34px;object-fit:contain">`;
 
 document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
 <div id="coupon-banner" style="display:none;background:linear-gradient(90deg,#0c1e42,#0a1730);border-bottom:1px solid rgba(59,130,246,.18);color:#dbeafe;text-align:center;padding:9px 20px;font-size:13px;font-weight:500;letter-spacing:.15px;position:fixed;left:0;right:0;z-index:499;">
