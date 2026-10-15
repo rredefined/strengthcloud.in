@@ -20,7 +20,7 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
 <nav id="navbar">
   <a href="/" class="nav-logo">
     ${VENOM_LOGO_SVG}
-    <span class="nav-logo-text">Strength<em>Cloud</em></span>
+    <span class="nav-logo-text">Bluex<em>Cloud</em></span>
   </a>
   <div class="nav-center">
     <div class="nav-item"><a class="nav-btn" href="/" data-page="/">Home</a></div>
