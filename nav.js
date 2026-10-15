@@ -1,4 +1,4 @@
-// ══ NAV TEMPLATE - StrengthCloud ══
+// ══ NAV TEMPLATE - BluexCloud ══
 
 // Guard against nav.js running more than once on the same page (can happen
 // on mobile in some back/forward-navigation / flaky-reload edge cases).
@@ -48,19 +48,19 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="chev" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="drop">
-        <a href="/minecraft/budget" data-service="mcBudget">
+        <a href="/minecraft/budget.html" data-service="mcBudget">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5"/></svg></div>
           <div class="drop-meta"><span>Minecraft Hosting</span><span class="drop-sub">Java &amp; Bedrock</span></div>
         </a>
-        <a href="/games/palworld" data-service="palworld" data-page="/games/palworld">
+        <a href="/games/palworld.html" data-service="palworld" data-page="/games/palworld">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>
           <div class="drop-meta"><span>Palworld Hosting</span><span class="drop-sub">Survival &amp; multiplayer</span></div>
         </a>
-        <a href="/games/ark" data-service="ark" data-page="/games/ark">
+        <a href="/games/ark.html" data-service="ark" data-page="/games/ark">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>
           <div class="drop-meta"><span>ARK Survival Hosting</span><span class="drop-sub">Dinos, mods &amp; tribes</span></div>
         </a>
-        <a href="/games/hytale" data-service="hytale" data-page="/games/hytale">
+        <a href="/games/hytale.html" data-service="hytale" data-page="/games/hytale">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>
           <div class="drop-meta"><span>Hytale Hosting</span><span class="drop-sub">Adventure &amp; mods</span></div>
         </a>
@@ -140,7 +140,7 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <button data-cur="USD" data-sym="$">$ USD</button>
       </div>
     </div>
-    <button class="btn-client" onclick="window.open('https://billing.strengthcloud.in','_blank')">Client Area</button>
+    <button class="btn-client" onclick="window.open('https://billing.BluexCloud.in','_blank')">Client Area</button>
     <button class="mob-menu-btn" id="mobMenuBtn" aria-label="Open menu">
       <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M4 6h16M4 12h16M4 18h16"/></svg>
     </button>
@@ -152,7 +152,7 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
 <div class="mob-drawer" id="mobDrawer">
   <div class="mob-drawer-head">
     <a href="/" class="nav-logo">
-      <img src="/logo.png" alt="StrengthCloud" style="width:28px;height:28px;object-fit:contain">
+      <img src="/logo.png" alt="BluexCloud" style="width:28px;height:28px;object-fit:contain">
       <span class="nav-logo-text">Strength<em>Cloud</em></span>
     </a>
     <button class="mob-close-btn" id="mobCloseBtn" aria-label="Close menu">
@@ -212,7 +212,7 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
       </div>
     </div>
     <div class="mob-drawer-footer">
-      <button class="btn-client" style="width:100%;justify-content:center;" onclick="window.open('https://billing.strengthcloud.in','_blank')">Client Area</button>
+      <button class="btn-client" style="width:100%;justify-content:center;" onclick="window.open('https://billing.BluexCloud.in','_blank')">Client Area</button>
     </div>
   </div>
 </div>
