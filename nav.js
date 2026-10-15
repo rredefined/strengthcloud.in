@@ -29,15 +29,15 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="chev" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="drop">
-        <a href="/minecraft/budget" data-service="mcBudget" data-page="/minecraft/budget">
+        <a href="/minecraft/budget.html" data-service="mcBudget" data-page="/minecraft/budget.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
           <div class="drop-meta"><span>Budget</span><span class="drop-sub">Affordable plans</span></div>
         </a>
-        <a href="/minecraft/power" data-service="mcPower" data-page="/minecraft/power">
+        <a href="/minecraft/power.html" data-service="mcPower" data-page="/minecraft/power.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>
           <div class="drop-meta"><span>Power</span><span class="drop-sub">High performance</span></div>
         </a>
-        <a href="/cloud-services/proxy" data-service="proxy" data-page="/cloud-services/proxy">
+        <a href="/cloud-services/proxy.html" data-service="proxy" data-page="/cloud-services/proxy.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h1a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
           <div class="drop-meta"><span>Proxy Server</span><span class="drop-sub">High-speed proxy servers</span></div>
         </a>
@@ -71,27 +71,27 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="chev" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="drop">
-        <a href="/cloud-services/vps" data-service="vps" data-page="/cloud-services/vps">
+        <a href="/cloud-services/vps.html" data-service="vps" data-page="/cloud-services/vps.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"/></svg></div>
           <div class="drop-meta"><span>VPS Servers</span><span class="drop-sub">High performance KVM</span></div>
         </a>
-        <a href="/cloud-services/dedicated" data-service="dedicated" data-page="/cloud-services/dedicated">
+        <a href="/cloud-services/dedicate.html" data-service="dedicated" data-page="/cloud-services/dedicated.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2M7 8h.01M7 16h.01"/></svg></div>
           <div class="drop-meta"><span>Dedicated Servers</span><span class="drop-sub">Bare metal, full control</span></div>
         </a>
-        <a href="/cloud-services/vds" data-service="vds" data-page="/cloud-services/vds">
+        <a href="/cloud-services/vds.html" data-service="vds" data-page="/cloud-services/vds.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"/></svg></div>
           <div class="drop-meta"><span>VDS Servers</span><span class="drop-sub">Dedicated vCores, guaranteed resources</span></div>
         </a>
-        <a href="/cloud-services/rdp" data-service="rdp" data-page="/cloud-services/rdp">
+        <a href="/cloud-services/rdp.html" data-service="rdp" data-page="/cloud-services/rdp.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17V7a2 2 0 012-2h6a2 2 0 012 2v10M9 17H5a2 2 0 01-2-2V9a2 2 0 012-2h.5M9 17h10m-5 0v4m-3 0h6"/></svg></div>
           <div class="drop-meta"><span>RDP Hosting</span><span class="drop-sub">Windows cloud desktops</span></div>
         </a>
-        <a href="/cloud-services/bot-hosting" data-service="bot">
+        <a href="/cloud-services/bot-hosting.html" data-service="bot">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg></div>
           <div class="drop-meta"><span>Bot Hosting</span><span class="drop-sub">Node.js &amp; Python</span></div>
         </a>
-        <a href="/cloud-services/web-hosting" data-service="web" data-page="/cloud-services/web-hosting">
+        <a href="/cloud-services/web-hosting.html" data-service="web" data-page="/cloud-services/web-hosting.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0zM3.6 9h16.8M3.6 15h16.8M11.5 3a17 17 0 000 18M12.5 3a17 17 0 010 18"/></svg></div>
           <div class="drop-meta"><span>Web Hosting</span><span class="drop-sub">Fast &amp; reliable website hosting</span></div>
         </a>
@@ -102,23 +102,23 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="chev" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="drop">
-        <a href="/company/about">
+        <a href="/company/about.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
           <div class="drop-meta"><span>About Us</span><span class="drop-sub">Learn more about our mission and team.</span></div>
         </a>
-        <a href="/company/infrastructure">
+        <a href="/company/infrastructure.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2"/></svg></div>
           <div class="drop-meta"><span>Infrastructure</span><span class="drop-sub">Explore our server network and data centers.</span></div>
         </a>
-        <a href="/company/contact">
+        <a href="/company/contact.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg></div>
           <div class="drop-meta"><span>Contact Us</span><span class="drop-sub">Get in touch with our support team.</span></div>
         </a>
-        <a href="/company/terms">
+        <a href="/company/terms.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg></div>
           <div class="drop-meta"><span>Terms and Conditions</span><span class="drop-sub">Terms and conditions of our services.</span></div>
         </a>
-        <a href="/company/privacy">
+        <a href="/company/privacy.html">
           <div class="drop-icon"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg></div>
           <div class="drop-meta"><span>Privacy Policy</span><span class="drop-sub">How we protect your data privacy.</span></div>
         </a>
@@ -178,10 +178,10 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="mob-chev" width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="mob-group-drop" id="mg-games">
-        <a class="mob-sub-link" href="/minecraft/budget" data-service="mcBudget"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5"/></svg>Minecraft Hosting</a>
-        <a class="mob-sub-link" href="/games/palworld" data-service="palworld"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>Palworld Hosting</a>
-        <a class="mob-sub-link" href="/games/ark" data-service="ark"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>ARK Survival Hosting</a>
-        <a class="mob-sub-link" href="/games/hytale" data-service="hytale"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>Hytale Hosting</a>
+        <a class="mob-sub-link" href="/minecraft/budget.html" data-service="mcBudget"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5"/></svg>Minecraft Hosting</a>
+        <a class="mob-sub-link" href="/games/palworld.html" data-service="palworld"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>Palworld Hosting</a>
+        <a class="mob-sub-link" href="/games/ark.html" data-service="ark"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>ARK Survival Hosting</a>
+        <a class="mob-sub-link" href="/games/hytale.html" data-service="hytale"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>Hytale Hosting</a>
       </div>
     </div>
     <div class="mob-group">
@@ -190,12 +190,12 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="mob-chev" width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="mob-group-drop" id="mg-cloud">
-        <a class="mob-sub-link" href="/cloud-services/vps" data-service="vps"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"/></svg>VPS Servers</a>
-        <a class="mob-sub-link" href="/cloud-services/dedicated" data-service="dedicated"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2M7 8h.01M7 16h.01"/></svg>Dedicated Servers</a>
-        <a class="mob-sub-link" href="/cloud-services/vds" data-service="vds"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"/></svg>VDS Servers</a>
-        <a class="mob-sub-link" href="/cloud-services/rdp" data-service="rdp"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17V7a2 2 0 012-2h6a2 2 0 012 2v10M9 17H5a2 2 0 01-2-2V9a2 2 0 012-2h.5M9 17h10m-5 0v4m-3 0h6"/></svg>RDP Hosting</a>
-        <a class="mob-sub-link" href="/cloud-services/bot-hosting" data-service="bot"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>Bot Hosting</a>
-        <a class="mob-sub-link" href="/cloud-services/web-hosting" data-service="web"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0zM3.6 9h16.8M3.6 15h16.8M11.5 3a17 17 0 000 18M12.5 3a17 17 0 010 18"/></svg>Web Hosting</a>
+        <a class="mob-sub-link" href="/cloud-services/vps.html" data-service="vps"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"/></svg>VPS Servers</a>
+        <a class="mob-sub-link" href="/cloud-services/dedicated.html" data-service="dedicated"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2M7 8h.01M7 16h.01"/></svg>Dedicated Servers</a>
+        <a class="mob-sub-link" href="/cloud-services/vds.html" data-service="vds"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"/></svg>VDS Servers</a>
+        <a class="mob-sub-link" href="/cloud-services/rdp.html" data-service="rdp"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17V7a2 2 0 012-2h6a2 2 0 012 2v10M9 17H5a2 2 0 01-2-2V9a2 2 0 012-2h.5M9 17h10m-5 0v4m-3 0h6"/></svg>RDP Hosting</a>
+        <a class="mob-sub-link" href="/cloud-services/bot-hosting.html" data-service="bot"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>Bot Hosting</a>
+        <a class="mob-sub-link" href="/cloud-services/web-hosting.html" data-service="web"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0zM3.6 9h16.8M3.6 15h16.8M11.5 3a17 17 0 000 18M12.5 3a17 17 0 010 18"/></svg>Web Hosting</a>
       </div>
     </div>
     <div class="mob-group">
@@ -204,11 +204,11 @@ document.getElementById('nav-placeholder').insertAdjacentHTML('beforebegin', `
         <svg class="mob-chev" width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7"/></svg>
       </button>
       <div class="mob-group-drop" id="mg-more">
-        <a class="mob-sub-link" href="/company/about"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>About Us</a>
-        <a class="mob-sub-link" href="/company/infrastructure"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2"/></svg>Infrastructure</a>
-        <a class="mob-sub-link" href="/company/contact"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>Contact Us</a>
-        <a class="mob-sub-link" href="/company/terms"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>Terms and Conditions</a>
-        <a class="mob-sub-link" href="/company/privacy"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>Privacy Policy</a>
+        <a class="mob-sub-link" href="/company/about.html"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>About Us</a>
+        <a class="mob-sub-link" href="/company/infrastructure.html"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2"/></svg>Infrastructure</a>
+        <a class="mob-sub-link" href="/company/contact.html"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>Contact Us</a>
+        <a class="mob-sub-link" href="/company/terms.html"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>Terms and Conditions</a>
+        <a class="mob-sub-link" href="/company/privacy.html"><svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>Privacy Policy</a>
       </div>
     </div>
     <div class="mob-drawer-footer">
