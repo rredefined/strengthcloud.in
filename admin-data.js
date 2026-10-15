@@ -13,7 +13,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -28,7 +28,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -43,7 +43,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -58,7 +58,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -73,7 +73,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -88,7 +88,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -103,7 +103,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -118,7 +118,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -133,7 +133,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -148,7 +148,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     }
   ],
@@ -165,7 +165,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -180,7 +180,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -195,7 +195,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -210,7 +210,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -225,7 +225,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -240,7 +240,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -255,7 +255,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -270,7 +270,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -285,7 +285,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -300,7 +300,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -317,7 +317,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -332,7 +332,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -347,7 +347,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -362,7 +362,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -377,7 +377,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -392,7 +392,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -407,7 +407,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -422,7 +422,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -437,7 +437,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -452,7 +452,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -467,7 +467,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -484,7 +484,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -499,7 +499,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -514,7 +514,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -529,7 +529,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -544,7 +544,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -559,7 +559,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -574,7 +574,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     },
     {
@@ -589,7 +589,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "Intel Xeon",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": true
     }
   ],
@@ -606,7 +606,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -621,7 +621,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -636,7 +636,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -651,7 +651,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -666,7 +666,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -681,7 +681,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -696,7 +696,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -711,7 +711,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -726,7 +726,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -741,7 +741,7 @@ window.ADMIN_DATA = {
       "location": "India, Mumbai",
       "cpuType": "AMD EPYC",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -758,7 +758,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -773,7 +773,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -788,7 +788,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -803,7 +803,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -818,7 +818,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -833,7 +833,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -848,7 +848,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -863,7 +863,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -878,7 +878,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -893,7 +893,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -908,7 +908,7 @@ window.ADMIN_DATA = {
       "location": "India, Delhi",
       "cpuType": "AMD Ryzen 9 9900X/9950X",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -920,7 +920,7 @@ window.ADMIN_DATA = {
       "ram": "512MB",
       "cpu": "20%",
       "storage": "5GB SSD",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -930,7 +930,7 @@ window.ADMIN_DATA = {
       "ram": "1GB",
       "cpu": "50%",
       "storage": "10GB SSD",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -940,7 +940,7 @@ window.ADMIN_DATA = {
       "ram": "2GB",
       "cpu": "100%",
       "storage": "20GB SSD",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -953,7 +953,7 @@ window.ADMIN_DATA = {
       "cpu": "Intel Xeon E5-2696 V4",
       "storage": "50GB NVMe SSD",
       "cores": 4,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -964,7 +964,7 @@ window.ADMIN_DATA = {
       "cpu": "Intel Xeon E5-2696 V4",
       "storage": "90GB NVMe SSD",
       "cores": 6,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -975,7 +975,7 @@ window.ADMIN_DATA = {
       "cpu": "Intel Xeon E5-2696 V4",
       "storage": "120GB NVMe SSD",
       "cores": 10,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -986,7 +986,7 @@ window.ADMIN_DATA = {
       "cpu": "Intel Xeon E5-2696 V4",
       "storage": "150GB NVMe SSD",
       "cores": 14,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -997,7 +997,7 @@ window.ADMIN_DATA = {
       "cpu": "Intel Xeon E5-2696 V4",
       "storage": "200GB NVMe SSD",
       "cores": 18,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1010,7 +1010,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD EPYC 7763",
       "storage": "50GB NVMe SSD",
       "cores": 4,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1021,7 +1021,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD EPYC 7763",
       "storage": "90GB NVMe SSD",
       "cores": 6,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1032,7 +1032,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD EPYC 7763",
       "storage": "120GB NVMe SSD",
       "cores": 10,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1043,7 +1043,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD EPYC 7763",
       "storage": "150GB NVMe SSD",
       "cores": 14,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1054,7 +1054,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD EPYC 7763",
       "storage": "200GB NVMe SSD",
       "cores": 18,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1067,7 +1067,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD Ryzen 9",
       "storage": "60GB Gen4 SSD",
       "cores": 3,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1078,7 +1078,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD Ryzen 9",
       "storage": "100GB Gen4 SSD",
       "cores": 6,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1089,7 +1089,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD Ryzen 9",
       "storage": "150GB Gen4 SSD",
       "cores": 8,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1100,7 +1100,7 @@ window.ADMIN_DATA = {
       "cpu": "AMD Ryzen 9",
       "storage": "200GB Gen4 SSD",
       "cores": 12,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1114,7 +1114,7 @@ window.ADMIN_DATA = {
       "cores": 2,
       "storage": "60GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1125,7 +1125,7 @@ window.ADMIN_DATA = {
       "cores": 4,
       "storage": "100GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1136,7 +1136,7 @@ window.ADMIN_DATA = {
       "cores": 6,
       "storage": "150GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1147,7 +1147,7 @@ window.ADMIN_DATA = {
       "cores": 8,
       "storage": "250GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1160,7 +1160,7 @@ window.ADMIN_DATA = {
       "cores": 2,
       "storage": "60GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1171,7 +1171,7 @@ window.ADMIN_DATA = {
       "cores": 4,
       "storage": "100GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1182,7 +1182,7 @@ window.ADMIN_DATA = {
       "cores": 6,
       "storage": "150GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1193,7 +1193,7 @@ window.ADMIN_DATA = {
       "cores": 8,
       "storage": "250GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1206,7 +1206,7 @@ window.ADMIN_DATA = {
       "cores": 2,
       "storage": "60GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1217,7 +1217,7 @@ window.ADMIN_DATA = {
       "cores": 4,
       "storage": "100GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1228,7 +1228,7 @@ window.ADMIN_DATA = {
       "cores": 6,
       "storage": "150GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1239,7 +1239,7 @@ window.ADMIN_DATA = {
       "cores": 8,
       "storage": "250GB NVMe SSD",
       "os": "Windows Server 2022",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1253,7 +1253,7 @@ window.ADMIN_DATA = {
       "storage": "20GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1265,7 +1265,7 @@ window.ADMIN_DATA = {
       "storage": "40GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1277,7 +1277,7 @@ window.ADMIN_DATA = {
       "storage": "60GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1291,7 +1291,7 @@ window.ADMIN_DATA = {
       "storage": "20GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1303,7 +1303,7 @@ window.ADMIN_DATA = {
       "storage": "40GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1315,7 +1315,7 @@ window.ADMIN_DATA = {
       "storage": "60GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1329,7 +1329,7 @@ window.ADMIN_DATA = {
       "storage": "40GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1341,7 +1341,7 @@ window.ADMIN_DATA = {
       "storage": "60GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1353,7 +1353,7 @@ window.ADMIN_DATA = {
       "storage": "100GB NVMe SSD",
       "os": "HTTP / SOCKS5",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1368,7 +1368,7 @@ window.ADMIN_DATA = {
       "players": 8,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1381,7 +1381,7 @@ window.ADMIN_DATA = {
       "players": 16,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1394,7 +1394,7 @@ window.ADMIN_DATA = {
       "players": 24,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1407,7 +1407,7 @@ window.ADMIN_DATA = {
       "players": 32,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1422,7 +1422,7 @@ window.ADMIN_DATA = {
       "players": 8,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1435,7 +1435,7 @@ window.ADMIN_DATA = {
       "players": 16,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1448,7 +1448,7 @@ window.ADMIN_DATA = {
       "players": 24,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1461,7 +1461,7 @@ window.ADMIN_DATA = {
       "players": 32,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1476,7 +1476,7 @@ window.ADMIN_DATA = {
       "players": 8,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1489,7 +1489,7 @@ window.ADMIN_DATA = {
       "players": 16,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1502,7 +1502,7 @@ window.ADMIN_DATA = {
       "players": 24,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     },
     {
@@ -1515,7 +1515,7 @@ window.ADMIN_DATA = {
       "players": 32,
       "location": "India, Mumbai",
       "ddos": true,
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false
     }
   ],
@@ -1528,7 +1528,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "40GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1542,7 +1542,7 @@ window.ADMIN_DATA = {
       "cpu": "300%",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1556,7 +1556,7 @@ window.ADMIN_DATA = {
       "cpu": "400%",
       "storage": "80GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1570,7 +1570,7 @@ window.ADMIN_DATA = {
       "cpu": "500%",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1586,7 +1586,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "40GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1600,7 +1600,7 @@ window.ADMIN_DATA = {
       "cpu": "300%",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1614,7 +1614,7 @@ window.ADMIN_DATA = {
       "cpu": "400%",
       "storage": "80GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1628,7 +1628,7 @@ window.ADMIN_DATA = {
       "cpu": "500%",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1644,7 +1644,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "40GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1658,7 +1658,7 @@ window.ADMIN_DATA = {
       "cpu": "300%",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1672,7 +1672,7 @@ window.ADMIN_DATA = {
       "cpu": "400%",
       "storage": "80GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1686,7 +1686,7 @@ window.ADMIN_DATA = {
       "cpu": "500%",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1702,7 +1702,7 @@ window.ADMIN_DATA = {
       "cpu": "150%",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1716,7 +1716,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "15GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1730,7 +1730,7 @@ window.ADMIN_DATA = {
       "cpu": "250%",
       "storage": "20GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1744,7 +1744,7 @@ window.ADMIN_DATA = {
       "cpu": "350%",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1760,7 +1760,7 @@ window.ADMIN_DATA = {
       "cpu": "150%",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1774,7 +1774,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "15GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1788,7 +1788,7 @@ window.ADMIN_DATA = {
       "cpu": "250%",
       "storage": "20GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1802,7 +1802,7 @@ window.ADMIN_DATA = {
       "cpu": "350%",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1818,7 +1818,7 @@ window.ADMIN_DATA = {
       "cpu": "150%",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1832,7 +1832,7 @@ window.ADMIN_DATA = {
       "cpu": "200%",
       "storage": "15GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1846,7 +1846,7 @@ window.ADMIN_DATA = {
       "cpu": "250%",
       "storage": "20GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1860,7 +1860,7 @@ window.ADMIN_DATA = {
       "cpu": "350%",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "ddos": true,
       "ports": 2,
@@ -1876,7 +1876,7 @@ window.ADMIN_DATA = {
       "cpu": "1 vCore",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1888,7 +1888,7 @@ window.ADMIN_DATA = {
       "cpu": "2 vCore",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1900,7 +1900,7 @@ window.ADMIN_DATA = {
       "cpu": "4 vCore",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1912,7 +1912,7 @@ window.ADMIN_DATA = {
       "cpu": "6 vCore",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     }
@@ -1926,7 +1926,7 @@ window.ADMIN_DATA = {
       "cpu": "1 vCore",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1938,7 +1938,7 @@ window.ADMIN_DATA = {
       "cpu": "2 vCore",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1950,7 +1950,7 @@ window.ADMIN_DATA = {
       "cpu": "4 vCore",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1962,7 +1962,7 @@ window.ADMIN_DATA = {
       "cpu": "6 vCore",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     }
@@ -1976,7 +1976,7 @@ window.ADMIN_DATA = {
       "cpu": "1 vCore",
       "storage": "10GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -1988,7 +1988,7 @@ window.ADMIN_DATA = {
       "cpu": "2 vCore",
       "storage": "30GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -2000,7 +2000,7 @@ window.ADMIN_DATA = {
       "cpu": "4 vCore",
       "storage": "60GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     },
@@ -2012,7 +2012,7 @@ window.ADMIN_DATA = {
       "cpu": "6 vCore",
       "storage": "120GB NVMe SSD",
       "location": "India, Mumbai",
-      "buyUrl": "https://discord.gg/3g3THTPQSN",
+      "buyUrl": "https://discord.gg/c8Rtax7dDH",
       "outOfStock": false,
       "backups": 2
     }
@@ -2021,9 +2021,9 @@ window.ADMIN_DATA = {
     "singaporeEnabled": false,
     "germanyEnabled": false,
     "locations": [],
-    "discordLink": "https://discord.gg/3g3THTPQSN",
-    "orderLink": "https://discord.gg/3g3THTPQSN",
-    "vpsDiscordLink": "https://discord.gg/3g3THTPQSN",
+    "discordLink": "https://discord.gg/c8Rtax7dDH",
+    "orderLink": "https://discord.gg/c8Rtax7dDH",
+    "vpsDiscordLink": "https://discord.gg/c8Rtax7dDH",
     "mcIntelHidden": false,
     "mcAmdHidden": false,
     "vpsIntelHidden": false,
